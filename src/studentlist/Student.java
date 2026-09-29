@@ -11,7 +11,7 @@ package studentlist;
 public class Student {
     private String name;
     private int sid;
-
+    private String course;
     /**
      * @return the name
      */
