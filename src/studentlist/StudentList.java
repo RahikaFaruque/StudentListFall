@@ -30,6 +30,7 @@ public class StudentList {
         {
             System.out.println(list[i].getName() + " " + list[i].getSid());
         }
+        System.out.println("Adding some extra stuff");
     }
     
 }
